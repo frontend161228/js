@@ -1,0 +1,24 @@
+﻿JavaScript精華 （三小時）
+  - JavaScript 語法要點整理 
+  - JavaScript 物件導向語法
+  - JSON 語法與資料處理 
+
+AJAX 通訊整合 （三小時）（必須先學過 jQuery）
+  - AJAX 觀念與應用實例 
+  - jQuery 的 AJAX 相關 API 函式 
+  - 以 jQuery 整合 RESTful 網路服務 
+  - Same Origin Policy 限制與跨網域傳輸解決方案
+
+伺服器推播技術 （三小時）（必須先學過 JavaScript）
+  - Server Sent Event 
+  - Chunked transfer encoding (分塊傳輸編碼) 
+  - 以 WebSocket 進行 Client/Server 雙向即時互動 
+  - 示範 Node.JS、PHP、ASP.NET 如何寫作 WebSocket Server
+
+網站動線規畫與前後端團隊整合（三小時）
+  - 網站動線規畫 
+  - 網頁切版與範例
+  - UI First 開發實例與示範
+  - Code First 開發實例與示範 
+
+
